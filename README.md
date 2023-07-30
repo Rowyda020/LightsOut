@@ -9,3 +9,8 @@
 
 
 ![Screenshot 2023-07-30 215715](https://github.com/Rowyda020/LightsOut/assets/76496105/674f74ab-1136-4369-b8c5-2164b14a0ddb)
+
+
+
+![Screenshot 2023-07-30 220051](https://github.com/Rowyda020/LightsOut/assets/76496105/2eafb074-98ed-4492-992f-7c4875d0525f)
+
