@@ -5,7 +5,6 @@
   - Technologies Used
   - Installation
   - Usage
-  - Contributing
   - License
 
 ### Features
@@ -30,3 +29,47 @@
   - MongoDB
   - Passport.js (for authentication)
   - Cloudinary (for image upload)
+
+### Installation
+
+1. Clone the repository:
+   git clone https://github.com/yourusername/yelpcamp.git
+   cd yelpcamp
+
+2. Install dependencies:
+   npm install
+
+3. Set up your environment variables
+   (Create a .env file in the root directory and add the following):
+   DATABASE_URL=<Your MongoDB connection string>
+  CLOUDINARY_CLOUD_NAME=<Your Cloudinary cloud name>
+  CLOUDINARY_KEY=<Your Cloudinary API key>
+  CLOUDINARY_SECRET=<Your Cloudinary API secret>
+
+### Usage
+  node app.js
+
+### License
+This project is licensed under the MIT License.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
