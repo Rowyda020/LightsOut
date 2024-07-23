@@ -37,12 +37,12 @@
    git clone https://github.com/yourusername/yelpcamp.git
    cd yelpcamp
   ```
-3. Install dependencies:
+2. Install dependencies:
   ```
    npm install
   ```
 
-5. Set up your environment variables:
+3. Set up your environment variables:
   ```
    (Create a .env file in the root directory and add the following):
    DATABASE_URL=<Your MongoDB connection string>
@@ -50,10 +50,15 @@
    CLOUDINARY_KEY=<Your Cloudinary API key>
    CLOUDINARY_SECRET=<Your Cloudinary API secret>
   ```
+4.Seed the database (optional):
+  ```
+   node seeds/index.js
+  ```
 
 ### Usage
+1. Start the application:
   ```
    node app.js
   ```
-
+2. Open your browser and go to http://localhost:3000.
 
