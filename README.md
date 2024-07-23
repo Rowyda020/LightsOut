@@ -40,7 +40,7 @@
 
 3. Install dependencies:
   ```
-   npm install
+npm install
   ```
 
 5. Set up your environment variables:
@@ -54,7 +54,7 @@
 
 ### Usage
 ```
-  node app.js
+node app.js
 ```
 
 
