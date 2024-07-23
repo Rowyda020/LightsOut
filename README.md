@@ -64,6 +64,5 @@
 
 ![Screenshot 2023-07-30 215803](https://github.com/user-attachments/assets/b1abb01b-20ba-4a33-8c2a-491324e04995)
 ![Screenshot 2023-07-30 215632](https://github.com/user-attachments/assets/8131a714-e0d7-4fa2-a439-186fac6179ea)
-![Screenshot 2023-07-30 215652](https://github.com/user-attachments/assets/911a55d5-44ba-4d3e-93bd-1e9471258531)
 ![Screenshot 2023-07-30 215715](https://github.com/user-attachments/assets/e95d27be-5801-4219-bb98-d3f40ce3290f)
 
