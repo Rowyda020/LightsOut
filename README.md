@@ -1,5 +1,5 @@
 # YelpCamp
-## YelpCamp is a full-stack web application that allows users to review campgrounds. This project is part of Colt Steele's Web Developer Bootcamp.
+## YelpCamp is a full-stack web application that allows users to review campgrounds. 
 ###  Table of Contents
   - Features
   - Technologies Used
