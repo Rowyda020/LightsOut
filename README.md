@@ -1,5 +1,5 @@
-# YelpCamp
-## YelpCamp is a full-stack web application that allows users to review campgrounds. 
+# LightsOut
+## LightsOut is a full-stack web application that allows users to review campgrounds. 
 ###  Table of Contents
   - Features
   - Technologies Used
