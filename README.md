@@ -34,8 +34,8 @@
 
 1. Clone the repository:
   ```
-   git clone https://github.com/yourusername/yelpcamp.git
-   cd yelpcamp
+   git clone https://github.com/yourusername/LightsOut.git
+   cd LightsOut
   ```
 2. Install dependencies:
   ```
